@@ -1,2 +1,2 @@
 # kuliah-pemrograman-2022
-Kena Mental 
+Bismillah to Alhamdulillah
