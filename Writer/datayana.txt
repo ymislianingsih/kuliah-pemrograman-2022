@@ -1,0 +1,9 @@
+Nama =yy 
+Nim =123 
+Prodi =yy
+Nama =yy
+Nim =123 
+Prodi =yy
+Nama =Yuliana Mislianingsih
+Nim =12250123497 
+Prodi =Teknik Informatika
