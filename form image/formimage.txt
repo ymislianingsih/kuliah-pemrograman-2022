@@ -1,0 +1,21 @@
+
+Nomor kartu:12345 
+Jenis ATM:Setor Tunai 
+Bank:BRI 
+Nama Pemilik:Yana 
+Nama File :7c1e7005c57348251ebd553d8e3d5f24.jpg
+Nomor kartu:6789 
+Jenis ATM:Tarik Tunai 
+Bank:BSI 
+Nama Pemilik:Ayu 
+Nama File :0f77a6dd36d38b463217328a572e8b47.jpg
+Nomor kartu:1456 
+Jenis ATM:Tarik Tunai 
+Bank:BCA 
+Nama Pemilik:Tasya 
+Nama File :2fc539985ac63045d26b41b1c83c9d78.jpg
+Nomor kartu:615478 
+Jenis ATM:Setor Tunai 
+Bank:BNI 
+Nama Pemilik:Andin 
+Nama File :6dfdce914088e2166994a191b1a4d251.jpg
