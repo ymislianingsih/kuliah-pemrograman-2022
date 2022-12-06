@@ -1,0 +1,36 @@
+
+
+Nama Pelanggan : 
+Jenis Service : - pilih -
+Mekanik : - pilih -
+Tanggal Masuk : //
+Tanggal Keluar : //
+Keterangan : - pilih -
+
+Nama Pelanggan : 
+Jenis Service : - pilih -
+Mekanik : - pilih -
+Tanggal Masuk : //
+Tanggal Keluar : //
+Keterangan : - pilih -
+
+Nama Pelanggan : yy
+Jenis Service : Ganti Oli
+Mekanik : Ganti Oli
+Tanggal Masuk : 3//
+Tanggal Keluar : /Januari/
+Keterangan : - pilih -
+
+Nama Pelanggan : 
+Jenis Service : - pilih -
+Mekanik : - pilih -
+Tanggal Masuk : //
+Tanggal Keluar : //
+Keterangan : - pilih -
+
+Nama Pelanggan : 
+Jenis Service : - pilih -
+Mekanik : - pilih -
+Tanggal Masuk : //
+Tanggal Keluar : //
+Keterangan : - pilih -
